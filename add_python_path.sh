@@ -1,0 +1,1 @@
+export PYTHONPATH=$PYTHONPATH:/home/akalanka/PythonProjects/doc-indexer/src
